@@ -1,6 +1,5 @@
 # EuroSAT LLM Explanation Evaluation
 
-This repository contains the implementation and experiments for the Master's thesis:
 
 **"Evaluating LLM-Generated Natural Language Explanations for Deep 
 Learning-Based Satellite Image Land Use Classification"**
